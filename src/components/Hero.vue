@@ -10,11 +10,11 @@
         <div class="hs-carousel-slide">
           <div class="h-[30rem] md:h-[calc(100vh-106px)]  flex flex-col bg-[url('https://images.unsplash.com/photo-1510590337019-5ef8d3d32116?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')] bg-cover bg-center bg-no-repeat">
             <div class="mt-auto w-2/3 md:max-w-lg ps-5 pb-5 md:ps-10 md:pb-10">
-              <span class="block text-white text-2xl font-bold">Belajar Alkitab</span>
-              <span class="block text-white text-xl md:text-xl">memahami Alkitab untuk menemukan kebebasan, penyembuhan, dan harapan di dalam Yesus</span>
+              <span class="block text-white text-2xl font-bold"> Alkitab</span>
+              <span class="block text-white text-xl md:text-2xl">Memahami Alkitab untuk menemukan kebebasan, penyembuhan, dan harapan di dalam Yesus</span>
               <div class="mt-5">
                 <a class="py-2 px-3 inline-flex items-center gap-x-2 text-sm font-medium rounded-xl bg-white border border-transparent text-black hover:bg-gray-100 disabled:opacity-50 disabled:pointer-events-none" href="#">
-                  Belajar Sekarang
+                  Belajar Alkitab
                 </a>
               </div>
             </div>
@@ -24,13 +24,13 @@
 
         <!-- Item -->
         <div class="hs-carousel-slide">
-          <div class="h-[30rem] md:h-[calc(100vh-106px)]  flex flex-col bg-[url('https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?q=80&w=3542&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')] bg-cover bg-center bg-no-repeat">
+          <div class="h-[30rem] md:h-[calc(100vh-106px)]  flex flex-col bg-[url('https://images.unsplash.com/photo-1572061485545-9399b66acedd?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')] bg-cover bg-center bg-no-repeat">
             <div class="mt-auto w-2/3 md:max-w-lg ps-5 pb-5 md:ps-10 md:pb-10">
-              <span class="block text-white">CoolApps</span>
-              <span class="block text-white text-xl md:text-3xl">From mobile apps to gaming consoles</span>
+              <span class="block text-white text-2xl font-bold">Nubuatan</span>
+              <span class="block text-white text-xl md:text-2xl"> Memahami karakter Allah, keadilan-Nya, dan rencana-Nya untuk sejarah keselamatan</span>
               <div class="mt-5">
                 <a class="py-2 px-3 inline-flex items-center gap-x-2 text-sm font-medium rounded-xl bg-white border border-transparent text-black hover:bg-gray-100 disabled:opacity-50 disabled:pointer-events-none" href="#">
-                  Read Case Studies
+                  Belajar Nubuatan
                 </a>
               </div>
             </div>
